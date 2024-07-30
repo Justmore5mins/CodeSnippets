@@ -1,0 +1,5 @@
+build
+dist
+CodeSnippets/lib/python3.12/site-packages/PyInstaller
+.DS_Store
+*.spec
